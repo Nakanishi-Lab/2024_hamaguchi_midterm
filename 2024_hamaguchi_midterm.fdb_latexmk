@@ -1,13 +1,14 @@
 # Fdb version 4
-["dvipdf"] 1728263886.48732 "2024_hamaguchi_midterm.dvi" "2024_hamaguchi_midterm.pdf" "2024_hamaguchi_midterm" 1728263887.4776 0
-  "2024_hamaguchi_midterm.dvi" 1728263886 8584 8fcf16c41fdc0e84bc3197a44b5fbd87 "latex"
+["dvipdf"] 1728269303.39368 "2024_hamaguchi_midterm.dvi" "2024_hamaguchi_midterm.pdf" "2024_hamaguchi_midterm" 1728269304.37037 0
+  "2024_hamaguchi_midterm.dvi" 1728269303 9068 75b1dc339e261c44a8d8be43e7f4e47f "latex"
   (generated)
   "2024_hamaguchi_midterm.pdf"
   (rewritten before read)
-["latex"] 1728263884.11927 "c:/Users/hiroki2030/Desktop/2024_data/2024_hamaguchi_midterm.tex" "2024_hamaguchi_midterm.dvi" "2024_hamaguchi_midterm" 1728263887.47423 0
-  "2024_hamaguchi_midterm.aux" 1728263886 1556 49d76ebc8d99eff6ea6577f65f74d6ea "latex"
-  "2024_hamaguchi_midterm.tex" 1728263880 7688 20891422fa52ecc825c05d2307521db0 ""
-  "c:/Users/hiroki2030/Desktop/2024_data/2024_hamaguchi_midterm.tex" 1728263880 7688 20891422fa52ecc825c05d2307521db0 ""
+["latex"] 1728269300.46839 "c:/Users/hiroki2030/Desktop/2024_data/2024_hamaguchi_midterm.tex" "2024_hamaguchi_midterm.dvi" "2024_hamaguchi_midterm" 1728269304.36687 0
+  "2024_hamaguchi_midterm.aux" 1728269303 1708 31c6595cbeddbda4dcda0b9eab03d95a "latex"
+  "2024_hamaguchi_midterm.tex" 1728269296 8128 908aea5d11f1732695373dda2c4a0e3b ""
+  "MPAparts.JPG" 1728265555 58934 a79e46946e0bc6103f6dae68cb1f1ca5 ""
+  "c:/Users/hiroki2030/Desktop/2024_data/2024_hamaguchi_midterm.tex" 1728269296 8128 908aea5d11f1732695373dda2c4a0e3b ""
   "c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1712804612 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/goth9.tfm" 1712807164 1196 b274fc006918dea9e5263e2117f4bddb ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/min6.tfm" 1712807164 1196 ede67ffb8cb4a6a8b9436c82b428664c ""
