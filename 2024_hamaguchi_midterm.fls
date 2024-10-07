@@ -79,6 +79,10 @@ INPUT ./kani6.PNG
 INPUT ./kani6.PNG
 INPUT ./kani6.PNG
 INPUT extractbb -B cropbox -O kani6.PNG
+INPUT ./mpa_oring_1.jpg
+INPUT ./mpa_oring_1.jpg
+INPUT ./mpa_oring_1.jpg
+INPUT extractbb -B cropbox -O mpa_oring_1.jpg
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx7.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 OUTPUT 2024_hamaguchi_midterm.dvi

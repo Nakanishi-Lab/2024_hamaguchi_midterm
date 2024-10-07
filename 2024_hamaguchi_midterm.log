@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.141592653-p4.1.1-u1.30-230214-2.6 (utf8.sjis) (TeX Live 2024) (preloaded format=platex 2024.4.11)  4 OCT 2024 16:36
+This is e-upTeX, Version 3.141592653-p4.1.1-u1.30-230214-2.6 (utf8.sjis) (TeX Live 2024) (preloaded format=platex 2024.4.11)  7 OCT 2024 10:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -192,20 +192,27 @@ LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <9> not available
 File: mpa.JPG Graphic file (type bmp)
 <mpa.JPG>
 
-Overfull \hbox (8.10435pt too wide) in paragraph at lines 93--95
+Overfull \hbox (8.10435pt too wide) in paragraph at lines 101--103
  [][] 
  []
 
 File: kani6.PNG Graphic file (type bmp)
 <kani6.PNG>
+File: mpa_oring_1.jpg Graphic file (type bmp)
+<mpa_oring_1.jpg>
+
+Overfull \hbox (8.5546pt too wide) in paragraph at lines 121--123
+ [][] 
+ []
+
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <7> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 110.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 130.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <7> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 110.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 130.
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 110.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 130.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 110.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 130.
 [1
 
 
@@ -218,12 +225,12 @@ L3 programming layer <2024-03-14>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 2070 strings out of 474761
- 31245 string characters out of 5761786
- 1934341 words of memory out of 5000000
- 24446 multiletter control sequences out of 15000+600000
+ 2079 strings out of 474761
+ 31429 string characters out of 5761786
+ 1936341 words of memory out of 5000000
+ 24452 multiletter control sequences out of 15000+600000
  567279 words of font info for 73 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
  57i,8n,65p,390b,392s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on 2024_hamaguchi_midterm.dvi (1 page, 7248 bytes).
+Output written on 2024_hamaguchi_midterm.dvi (1 page, 8584 bytes).
