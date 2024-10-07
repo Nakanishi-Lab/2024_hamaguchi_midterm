@@ -1,14 +1,14 @@
 # Fdb version 4
-["dvipdf"] 1728269609.86713 "2024_hamaguchi_midterm.dvi" "2024_hamaguchi_midterm.pdf" "2024_hamaguchi_midterm" 1728269610.84248 0
-  "2024_hamaguchi_midterm.dvi" 1728269609 9072 53646f33aa41aa5e11db700b26b1a343 "latex"
+["dvipdf"] 1728271670.53687 "2024_hamaguchi_midterm.dvi" "2024_hamaguchi_midterm.pdf" "2024_hamaguchi_midterm" 1728271671.54493 0
+  "2024_hamaguchi_midterm.dvi" 1728271670 8976 be8e1aaf992699f5ccaf094f88ac559a "latex"
   (generated)
   "2024_hamaguchi_midterm.pdf"
   (rewritten before read)
-["latex"] 1728269606.90843 "c:/Users/hiroki2030/Desktop/2024_data/2024_hamaguchi_midterm.tex" "2024_hamaguchi_midterm.dvi" "2024_hamaguchi_midterm" 1728269610.83903 0
-  "2024_hamaguchi_midterm.aux" 1728269609 1708 31c6595cbeddbda4dcda0b9eab03d95a "latex"
-  "2024_hamaguchi_midterm.tex" 1728269555 8131 443119d5f092239b63181d6e3fdc2e35 ""
-  "MPAparts.JPG" 1728265555 58934 a79e46946e0bc6103f6dae68cb1f1ca5 ""
-  "c:/Users/hiroki2030/Desktop/2024_data/2024_hamaguchi_midterm.tex" 1728269555 8131 443119d5f092239b63181d6e3fdc2e35 ""
+["latex"] 1728271667.59515 "c:/Users/hiroki2030/Desktop/2024_data/2024_hamaguchi_midterm.tex" "2024_hamaguchi_midterm.dvi" "2024_hamaguchi_midterm" 1728271671.54147 0
+  "2024_hamaguchi_midterm.aux" 1728271670 1708 31c6595cbeddbda4dcda0b9eab03d95a "latex"
+  "2024_hamaguchi_midterm.tex" 1728271663 8080 41bc50f38a1aa21674fb349ed0f7bdea ""
+  "MPAparts.JPG" 1728270951 58163 fd3f91741878f27789f42daede40a522 ""
+  "c:/Users/hiroki2030/Desktop/2024_data/2024_hamaguchi_midterm.tex" 1728271663 8080 41bc50f38a1aa21674fb349ed0f7bdea ""
   "c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1712804612 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/goth9.tfm" 1712807164 1196 b274fc006918dea9e5263e2117f4bddb ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/min6.tfm" 1712807164 1196 ede67ffb8cb4a6a8b9436c82b428664c ""
@@ -53,7 +53,7 @@
   "chukan2018.sty" 1724833675 3835 84ba8e0bffb80723ebe75ac821c5d50a ""
   "kani6.PNG" 1724833675 328125 865feb5ed7e3affc32378f2d0c96155a ""
   "mpa.JPG" 1724833675 122247 de709341907916247ad88c04f11e03ed ""
-  "mpa_oring_1.jpg" 1728260788 451583 3e82d1c5598d7db0f6f60318b1d8fcac ""
+  "mpa_oring_1.jpg" 1728269958 567746 d843d945b3f07203008d4a841bdff68b ""
   "twocolumn.sty" 1728013949 230 e0eeb288388b8fdbdf700083bc2805d2 ""
   (generated)
   "2024_hamaguchi_midterm.aux"
