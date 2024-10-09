@@ -1,11 +1,11 @@
 # Fdb version 4
-["dvipdf"] 1728455730.0792 "2024_hamaguchi_midterm.dvi" "2024_hamaguchi_midterm.pdf" "2024_hamaguchi_midterm" 1728455730.94812 0
-  "2024_hamaguchi_midterm.dvi" 1728455730 10892 bf46ccb7f2c6ef9554d9cd3a8924aa3f "latex"
+["dvipdf"] 1728455919.51831 "2024_hamaguchi_midterm.dvi" "2024_hamaguchi_midterm.pdf" "2024_hamaguchi_midterm" 1728455920.40205 0
+  "2024_hamaguchi_midterm.dvi" 1728455919 10892 0b2c772bdc10bc3d041161c3809c0c39 "latex"
   (generated)
   "2024_hamaguchi_midterm.pdf"
   (rewritten before read)
-["latex"] 1728455727.04838 "c:/Users/hiroki2030/Desktop/2024_data/2024_hamaguchi_midterm.tex" "2024_hamaguchi_midterm.dvi" "2024_hamaguchi_midterm" 1728455730.94448 0
-  "2024_hamaguchi_midterm.aux" 1728455730 1892 e3560cb91596229dfebb5c9872c808d6 "latex"
+["latex"] 1728455916.51354 "c:/Users/hiroki2030/Desktop/2024_data/2024_hamaguchi_midterm.tex" "2024_hamaguchi_midterm.dvi" "2024_hamaguchi_midterm" 1728455920.3984 0
+  "2024_hamaguchi_midterm.aux" 1728455919 1892 e3560cb91596229dfebb5c9872c808d6 "latex"
   "2024_hamaguchi_midterm.tex" 1728455395 10627 0b5061984c3260fd2fa457cc1dca5b0d ""
   "MPA_irast.jpg" 1728451297 396670 f815b8b1a1ed5c14a1ddd7b5336acf04 ""
   "c:/Users/hiroki2030/Desktop/2024_data/2024_hamaguchi_midterm.tex" 1728455395 10627 0b5061984c3260fd2fa457cc1dca5b0d ""
