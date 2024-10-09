@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.141592653-p4.1.1-u1.30-230214-2.6 (utf8.sjis) (TeX Live 2024) (preloaded format=platex 2024.4.11)  8 OCT 2024 10:22
+This is e-upTeX, Version 3.141592653-p4.1.1-u1.30-230214-2.6 (utf8.sjis) (TeX Live 2024) (preloaded format=platex 2024.4.11)  9 OCT 2024 15:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -149,84 +149,90 @@ Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 \multirow@cntb=\count280
 \multirow@dima=\skip61
 \bigstrutjot=\dimen175
+) (c:/texlive/2024/texmf-dist/tex/latex/here/here.sty) (c:/texlive/2024/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count281
+\float@exts=\toks25
+\float@box=\box73
+\@float@everytoks=\toks26
+\@floatcapt=\box74
 ) (./chukan2018.sty
 \@Q=\dimen176
 ) (c:/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
 File: l3backend-dvips.def 2024-03-14 L3 backend support: dvips
-\l__pdf_internal_box=\box73
-\g__pdf_backend_object_int=\count281
-\l__pdf_backend_content_box=\box74
-\l__pdf_backend_model_box=\box75
-\g__pdf_backend_annotation_int=\count282
-\g__pdf_backend_link_int=\count283
-\g__pdf_backend_link_sf_int=\count284
-) (./2024_hamaguchi_midterm.aux
-
-LaTeX Warning: Label `crabrobot' multiply defined.
-
-)
+\l__pdf_internal_box=\box75
+\g__pdf_backend_object_int=\count282
+\l__pdf_backend_content_box=\box76
+\l__pdf_backend_model_box=\box77
+\g__pdf_backend_annotation_int=\count283
+\g__pdf_backend_link_int=\count284
+\g__pdf_backend_link_sf_int=\count285
+) (./2024_hamaguchi_midterm.aux)
 \openout1 = `2024_hamaguchi_midterm.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 32.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 33.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 32.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 33.
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <9> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 37.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 38.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <9> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 37.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 38.
 File: mpa.JPG Graphic file (type bmp)
 <mpa.JPG>
+File: mosiki.JPG Graphic file (type bmp)
+<mosiki.JPG>
 
-Overfull \hbox (8.10435pt too wide) in paragraph at lines 101--103
+Overfull \hbox (9.73036pt too wide) in paragraph at lines 80--82
  [][] 
  []
 
-File: kani6.PNG Graphic file (type bmp)
-<kani6.PNG>
 File: mpa_oring_1.jpg Graphic file (type bmp)
 <mpa_oring_1.jpg>
 
-Overfull \hbox (7.68779pt too wide) in paragraph at lines 121--123
+Overfull \hbox (1.99214pt too wide) in paragraph at lines 92--94
  [][] 
  []
 
-File: MPAparts.JPG Graphic file (type bmp)
-<MPAparts.JPG>
-LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <7> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 138.
-LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <7> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 138.
-LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 138.
-LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 138.
+File: MPA_irast.jpg Graphic file (type bmp)
+<MPA_irast.jpg>
+
+Overfull \hbox (2.1929pt too wide) in paragraph at lines 100--102
+ [][] 
+ []
+
 [1
 
 
 
-] [2
+]
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <7> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 190.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <7> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 190.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 190.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 190.
+ [2
 
 ] (./2024_hamaguchi_midterm.aux)
  ***********
@@ -234,18 +240,14 @@ pLaTeX2e <2023-02-14>+1, based on
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
  ***********
-
-
-LaTeX Warning: There were multiply-defined labels.
-
  ) 
 Here is how much of TeX's memory you used:
- 2087 strings out of 474761
- 31588 string characters out of 5761786
+ 2177 strings out of 474761
+ 33159 string characters out of 5761786
  1935341 words of memory out of 5000000
- 24458 multiletter control sequences out of 15000+600000
+ 24541 multiletter control sequences out of 15000+600000
  567279 words of font info for 73 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 57i,8n,65p,390b,392s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,9n,65p,390b,392s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on 2024_hamaguchi_midterm.dvi (2 pages, 9760 bytes).
+Output written on 2024_hamaguchi_midterm.dvi (2 pages, 10892 bytes).

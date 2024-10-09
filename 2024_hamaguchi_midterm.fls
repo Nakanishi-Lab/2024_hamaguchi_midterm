@@ -46,6 +46,10 @@ INPUT c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/latex-fonts/lasy6.tfm
 INPUT c:/texlive/2024/texmf-dist/tex/latex/multirow/multirow.sty
 INPUT c:/texlive/2024/texmf-dist/tex/latex/multirow/multirow.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/here/here.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/here/here.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/float/float.sty
+INPUT c:/texlive/2024/texmf-dist/tex/latex/float/float.sty
 INPUT ./chukan2018.sty
 INPUT chukan2018.sty
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin9.tfm
@@ -75,19 +79,19 @@ INPUT ./mpa.JPG
 INPUT ./mpa.JPG
 INPUT ./mpa.JPG
 INPUT extractbb -B cropbox -O mpa.JPG
-INPUT ./kani6.PNG
-INPUT ./kani6.PNG
-INPUT ./kani6.PNG
-INPUT extractbb -B cropbox -O kani6.PNG
+INPUT ./mosiki.JPG
+INPUT ./mosiki.JPG
+INPUT ./mosiki.JPG
+INPUT extractbb -B cropbox -O mosiki.JPG
 INPUT ./mpa_oring_1.jpg
 INPUT ./mpa_oring_1.jpg
 INPUT ./mpa_oring_1.jpg
 INPUT extractbb -B cropbox -O mpa_oring_1.jpg
-INPUT ./MPAparts.JPG
-INPUT ./MPAparts.JPG
-INPUT ./MPAparts.JPG
-INPUT extractbb -B cropbox -O MPAparts.JPG
+INPUT ./MPA_irast.jpg
+INPUT ./MPA_irast.jpg
+INPUT ./MPA_irast.jpg
+INPUT extractbb -B cropbox -O MPA_irast.jpg
+OUTPUT 2024_hamaguchi_midterm.dvi
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx7.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
-OUTPUT 2024_hamaguchi_midterm.dvi
 INPUT 2024_hamaguchi_midterm.aux
