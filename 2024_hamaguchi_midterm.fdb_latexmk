@@ -1,14 +1,14 @@
 # Fdb version 4
-["dvipdf"] 1728604049.83312 "2024_hamaguchi_midterm.dvi" "2024_hamaguchi_midterm.pdf" "2024_hamaguchi_midterm" 1728604050.69605 0
-  "2024_hamaguchi_midterm.dvi" 1728604049 9692 c6628be74c248c8a79596be94d547dd7 "latex"
+["dvipdf"] 1728604512.98781 "2024_hamaguchi_midterm.dvi" "2024_hamaguchi_midterm.pdf" "2024_hamaguchi_midterm" 1728604513.85473 0
+  "2024_hamaguchi_midterm.dvi" 1728604512 9692 1a7c245f64b0d20147cfe29a5939a4d5 "latex"
   (generated)
   "2024_hamaguchi_midterm.pdf"
   (rewritten before read)
-["latex"] 1728604046.90259 "c:/Users/hiroki2030/Desktop/2024_data/2024_hamaguchi_midterm.tex" "2024_hamaguchi_midterm.dvi" "2024_hamaguchi_midterm" 1728604050.69244 0
-  "2024_hamaguchi_midterm.aux" 1728604049 1315 e893ef36886034933f21fe6fd240e304 "latex"
-  "2024_hamaguchi_midterm.tex" 1728603952 7963 2e9ae3be921a6414172d7b9857856168 ""
+["latex"] 1728604510.03825 "c:/Users/hiroki2030/Desktop/2024_data/2024_hamaguchi_midterm.tex" "2024_hamaguchi_midterm.dvi" "2024_hamaguchi_midterm" 1728604513.85116 0
+  "2024_hamaguchi_midterm.aux" 1728604512 1315 e893ef36886034933f21fe6fd240e304 "latex"
+  "2024_hamaguchi_midterm.tex" 1728604506 7963 6ffc9efab3cfd5357bd16536ab17626e ""
   "MPA_irast.jpg" 1728541712 390366 e5bc085eb2154335f2b720b8ba2b9122 ""
-  "c:/Users/hiroki2030/Desktop/2024_data/2024_hamaguchi_midterm.tex" 1728603952 7963 2e9ae3be921a6414172d7b9857856168 ""
+  "c:/Users/hiroki2030/Desktop/2024_data/2024_hamaguchi_midterm.tex" 1728604506 7963 6ffc9efab3cfd5357bd16536ab17626e ""
   "c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1712804612 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/goth9.tfm" 1712807164 1196 b274fc006918dea9e5263e2117f4bddb ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/min6.tfm" 1712807164 1196 ede67ffb8cb4a6a8b9436c82b428664c ""
@@ -53,9 +53,9 @@
   "c:/texlive/2024/texmf-var/web2c/euptex/platex.fmt" 1712809106 8157879 20d4919caf11d2f43ce27cb92accf3da ""
   "c:/texlive/2024/texmf.cnf" 1712808916 713 e69b156964470283e0530f5060668171 ""
   "chukan2018.sty" 1724833675 3835 84ba8e0bffb80723ebe75ac821c5d50a ""
-  "mosiki.JPG" 1728447063 474020 8c73ba5739f0eb687ec0ce491b0140ee ""
+  "mosiki.JPG" 1728604484 428778 e1cd569dbc1606d9666295ef86430b02 ""
   "mpa.JPG" 1724833675 122247 de709341907916247ad88c04f11e03ed ""
-  "mpa_oring_1.jpg" 1728543012 578754 c83cfe8e3e2ce9f3af5a33908e9ac3aa ""
+  "mpa_oring_1.jpg" 1728604276 402598 fdaaa358c46b7a0da8f5baa9f50e96cd ""
   "twocolumn.sty" 1728013949 230 e0eeb288388b8fdbdf700083bc2805d2 ""
   (generated)
   "2024_hamaguchi_midterm.aux"
