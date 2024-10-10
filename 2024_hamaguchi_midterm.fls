@@ -91,7 +91,7 @@ INPUT ./MPA_irast.jpg
 INPUT ./MPA_irast.jpg
 INPUT ./MPA_irast.jpg
 INPUT extractbb -B cropbox -O MPA_irast.jpg
-OUTPUT 2024_hamaguchi_midterm.dvi
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx7.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
+OUTPUT 2024_hamaguchi_midterm.dvi
 INPUT 2024_hamaguchi_midterm.aux

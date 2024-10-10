@@ -1,14 +1,14 @@
 # Fdb version 4
-["dvipdf"] 1728542035.9411 "2024_hamaguchi_midterm.dvi" "2024_hamaguchi_midterm.pdf" "2024_hamaguchi_midterm" 1728542036.86772 0
-  "2024_hamaguchi_midterm.dvi" 1728542035 10304 af06dba8dcdc6f7a040e973aa4cb01ba "latex"
+["dvipdf"] 1728544585.2336 "2024_hamaguchi_midterm.dvi" "2024_hamaguchi_midterm.pdf" "2024_hamaguchi_midterm" 1728544586.10641 0
+  "2024_hamaguchi_midterm.dvi" 1728544585 10064 81a0461290972fcb611c5a88815e09bf "latex"
   (generated)
   "2024_hamaguchi_midterm.pdf"
   (rewritten before read)
-["latex"] 1728542032.92569 "c:/Users/hiroki2030/Desktop/2024_data/2024_hamaguchi_midterm.tex" "2024_hamaguchi_midterm.dvi" "2024_hamaguchi_midterm" 1728542036.8642 0
-  "2024_hamaguchi_midterm.aux" 1728542035 1663 d271b6f3ea504e8504542342b9b5cdc8 "latex"
-  "2024_hamaguchi_midterm.tex" 1728541849 8520 ebbf8435552e78668ce8cd9c1dd14fc9 ""
+["latex"] 1728544582.26247 "c:/Users/hiroki2030/Desktop/2024_data/2024_hamaguchi_midterm.tex" "2024_hamaguchi_midterm.dvi" "2024_hamaguchi_midterm" 1728544586.10287 0
+  "2024_hamaguchi_midterm.aux" 1728544585 1663 d271b6f3ea504e8504542342b9b5cdc8 "latex"
+  "2024_hamaguchi_midterm.tex" 1728544578 8404 07c2455094ac3a94931107ee3b7f1800 ""
   "MPA_irast.jpg" 1728541712 390366 e5bc085eb2154335f2b720b8ba2b9122 ""
-  "c:/Users/hiroki2030/Desktop/2024_data/2024_hamaguchi_midterm.tex" 1728541849 8520 ebbf8435552e78668ce8cd9c1dd14fc9 ""
+  "c:/Users/hiroki2030/Desktop/2024_data/2024_hamaguchi_midterm.tex" 1728544578 8404 07c2455094ac3a94931107ee3b7f1800 ""
   "c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1712804612 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/goth9.tfm" 1712807164 1196 b274fc006918dea9e5263e2117f4bddb ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/standard/min6.tfm" 1712807164 1196 ede67ffb8cb4a6a8b9436c82b428664c ""
@@ -55,7 +55,7 @@
   "chukan2018.sty" 1724833675 3835 84ba8e0bffb80723ebe75ac821c5d50a ""
   "mosiki.JPG" 1728447063 474020 8c73ba5739f0eb687ec0ce491b0140ee ""
   "mpa.JPG" 1724833675 122247 de709341907916247ad88c04f11e03ed ""
-  "mpa_oring_1.jpg" 1728452083 459480 021bd6e8cc5b013db91da1bf8d97149c ""
+  "mpa_oring_1.jpg" 1728543012 578754 c83cfe8e3e2ce9f3af5a33908e9ac3aa ""
   "twocolumn.sty" 1728013949 230 e0eeb288388b8fdbdf700083bc2805d2 ""
   (generated)
   "2024_hamaguchi_midterm.aux"
