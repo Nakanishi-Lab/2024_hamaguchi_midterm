@@ -48,13 +48,13 @@ Keywords: McKibben Pneumatic Actuater, Exoskeleton, Biomimetic Robot
 \vspace*{-2mm}
 \section{MPAおよび羽状筋について}
 
-従来のMPAと細径MPAを図\ref{fig:MPA}に示す．通常のMPAと比べて細径MPAは細くて軽量のため狭いスペースでへの配置と集積が可能である．
-また複数の細径MPAを集積することで羽状筋のような複雑な筋肉の再現が可能である．
-先行研究\cite{crabrobot2}で開発されたロボットに搭載された細径MPAを用いた羽状筋を図\ref{fig:crabrobot}に示す．
-羽状筋とは，羽のように筋繊維が斜めに並んだ筋肉である．
+従来のMPAと細径MPAを図\ref{fig:MPA}に示す．通常のMPA(図\ref{fig:MPA}左)と比べて細径MPA(図\ref{fig:MPA}中，右)は細くて軽量のため狭いスペースへの配置と集積が可能である．
+また複数の細径MPAを集積することで複雑な筋肉の再現が可能である．
+また先行研究\cite{crabrobot2}で開発されたロボットに搭載された細径MPAを用いた羽状筋を図\ref{fig:crabrobot}に示す．
+羽状筋とは羽のように筋繊維が斜めに並んだ筋肉である．
 先行研究\cite{crabrobot2}ではこの羽状筋を用いてカニの歩脚を模した外骨格型ロボットを開発し，脚の開閉動作の実現に成功した．
 しかし羽状筋の構成方法や細径MPAの収縮性能などを原因として，実際の蟹と比べて可動域が狭いという課題が残された．
-また羽状筋は多数の細径MPAから構成されるが，その制作過程の煩雑さも課題であった．
+また細径MPAの制作過程の煩雑さも課題であった．
 本研究ではまずこれらの課題を解決することで，より実際の蟹に近い構造や可動域を有するロボットの開発を目指す．
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -82,27 +82,28 @@ Keywords: McKibben Pneumatic Actuater, Exoskeleton, Biomimetic Robot
     \label{fig:crabrobot}
   \end{minipage}
 \end{figure}
-\vspace*{-6mm}
+\vspace*{-5mm}
 \begin{figure}[H]
   \begin{minipage}[b]{0.47\columnwidth}
     \centering
     \includegraphics[scale=0.05]{mpa_oring_1.jpg}
     \vspace{-2mm}
-    \caption{細径MPA}
+    \caption{細径MPA締結方法}
     \label{fig:OringMPA}
   \end{minipage}
   \hspace{0.04\columnwidth}
   \begin{minipage}[b]{0.47\columnwidth}
     \centering
     \includegraphics[scale=0.047]{MPA_irast.jpg}
-    \vspace{-1mm}
+    \vspace{-2mm}
     \caption{細径MPA端部部品}
     \label{fig:MPAparts}
   \end{minipage}
 \end{figure}
 
 
-続いて細径MPAの収縮性能向上に取り組んだ．先行研究において開発された細径MPAにおいては，折癖の影響からスリーブが多少膨らんだ状態で作成されていたため，
+続いて細径MPAの収縮性能向上に取り組んだ．
+先行研究において開発された細径MPAにおいては，折癖の影響からスリーブが多少膨らんだ状態で作成されていたため，
 圧力印加時の収縮量が減少してしまっていた．本研究ではメッシュの中に直径2mmの丸棒を差し込んで固定した状態でホットプレートで加熱することで熱可逆変化させた．
 折癖をとるとともにスリーブの初期直径を2mmにまで小さくすることに成功し，収縮量を向上させることができた．
 
